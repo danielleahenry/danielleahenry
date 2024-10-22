@@ -8,9 +8,7 @@ Hi there! I’m Danielle, a motivated CS student who enjoys learning and creatin
 - 💻 Proficient in Java and Python, with a strong foundation in Object-Oriented Programming and data structures.
 - 👥 Dedicated to leveraging technology to create solutions that enhance lives and promote accessibility for everyone.
 
-## Projects
-
-Check out my portfolio to see my projects and learn more about my work: [My Portfolio](https://danielle-henry.glitch.me/)
+You can check out my repositories or [my portfolio](https://danielle-henry.glitch.me/) to see my projects and learn more about my work! ☻
 
 ## Connect
 
