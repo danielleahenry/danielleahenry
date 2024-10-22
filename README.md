@@ -1,6 +1,6 @@
 # Danielle Henry
 
-Hi there! I’m Danielle, a passionate CS student.
+Hi there! I’m Danielle, a motivated CS student who enjoys learning and creating with technology.
 
 ## About Me
 
