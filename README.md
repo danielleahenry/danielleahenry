@@ -4,7 +4,7 @@ Hi there! I’m Danielle, a motivated CS student who enjoys learning and creatin
 
 ## About Me
 
-- 🎓 Third-year Honors student pursuing a Bachelor of Science in Computer Science with a concentration in Artificial Intelligence at Kennesaw State University.
+- 🎓 Rising third-year Honors student pursuing a Bachelor of Science in Computer Science with a concentration in Artificial Intelligence at Kennesaw State University.
 - 💻 Proficient in Java and Python, with a strong foundation in Object-Oriented Programming and data structures.
 - 👥 Dedicated to leveraging technology to create solutions that enhance lives and promote accessibility for everyone.
 
